@@ -1,0 +1,26 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Node app that interacts with twitter, spotify, and omdb",
+  "main": "liri.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/werkerScott/liri-node-app.git"
+  },
+  "author": "sb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/werkerScott/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/werkerScott/liri-node-app#readme"
+}
